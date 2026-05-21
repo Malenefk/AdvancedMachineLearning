@@ -198,6 +198,8 @@ https://github.com/CompPhysics/AdvancedMachineLearning/blob/main/doc/pub/week1/i
 ## May 18-22:  Discussion of projects
 - GANs, first lecture
 - Summary slides at https://github.com/CompPhysics/AdvancedMachineLearning/blob/main/doc/pub/week16/pdf and jupyter-notebook https://github.com/CompPhysics/AdvancedMachineLearning/blob/main/doc/pub/week16/ipynb
+- Video of lecture at https://youtu.be/DPtSJyBzPPE
+- Whiteboard notes at https://github.com/CompPhysics/AdvancedMachineLearning/blob/main/doc/HandwrittenNotes/2026/Notesweek16.pdf
 
 
 ## Recommended textbooks:
