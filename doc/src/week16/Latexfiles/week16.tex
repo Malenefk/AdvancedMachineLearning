@@ -368,7 +368,7 @@ without any likelihood computation.\\[2pt]
     \item Fake images are \textbf{detached} from the computation graph during
           the $D$ step to prevent spurious gradients flowing into $G$.
     \item Both networks update simultaneously — this does \emph{not} guarantee
-          convergence (see Section~\ref{sec:challenges}).
+          convergence).
   \end{itemize}
 \end{frame}
 
@@ -1399,7 +1399,6 @@ Sampling &
             \item Boltzmann machines
             \item VAEs
             \item Diffusion models
-            \item Autoregressive
             \item GANs
           \end{itemize}
         \end{columns}
@@ -1482,7 +1481,7 @@ Sampling &
       \end{block}
       \vspace{3pt}
       \begin{alertblock}{Goal}
-        Build a NN from first principles
+        Build an NN from first principles
         before using high-level frameworks.
       \end{alertblock}
   \end{columns}
@@ -1680,7 +1679,7 @@ Sampling &
           \item Explicit vs.\ implicit density estimation
           \item Energy-based models:
                 $p_\theta(\bm{x}) = e^{-E_\theta(\bm{x})}/Z(\theta)$
-          \item Markov Chain Monte Carlo recap
+          \item Markov Chain Monte Carlo
           \item Gibbs sampling
         \end{itemize}
       \end{block}
@@ -1982,7 +1981,7 @@ Sampling &
                 Schr\"{o}dinger equation
           \item \textbf{Reaction pathways:}
                 transformers for retrosynthesis and
-                transition-state prediction
+                transition-state prediction, catalysis
         \end{itemize}
       \end{block}
   \end{columns}
@@ -2026,8 +2025,7 @@ Sampling &
                 ice-sheet dynamics, and
                 ocean surface reconstruction
           \item \textbf{Subsurface imaging:}
-                generative models for reservoir
-                characterisation and seismic
+                reservoir characterisation and seismic
                 interpretation
         \end{itemize}
       \end{block}
