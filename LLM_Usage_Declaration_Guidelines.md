@@ -1,6 +1,6 @@
 # Guidelines for Declaring the Use of Large Language Models in Project Reports
 
-**Course:** Advanced Machine Learning (FYS-STK / IN-STK course, University of Oslo)**  
+**Course:** Advanced Machine Learning (FYS5429/9429 University of Oslo)**  
 **Applies to:** All written project reports and submitted code
 
 ---
