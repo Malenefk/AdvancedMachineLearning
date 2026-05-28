@@ -1,7 +1,7 @@
 # Guidelines for Declaring the Use of Large Language Models in Project Reports
 
-**Course:** Advanced Machine Learning (FYS5429/9429 University of Oslo)**  
-**Applies to:** All written project reports and submitted code. It applies to those of you who have opted for one project only and for the second project (only) for those of you who opted for two projects.
+**Course:** Advanced Machine Learning (FYS5429/9429 University of Oslo)
+**Applies to:** All written project reports and submitted code. It applies to those of you who have opted for one project only and for the second project (only) for those of you who opted for two projects. It is not compulsory to include such a declaration, but we recommend doing so.
 
 ---
 
