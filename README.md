@@ -5,10 +5,12 @@ Analysis and Machine Learning, spanning from weekly plans to lecture
 material and various reading assignments.  The emphasis is on deep
 learning algorithms, starting with the mathematics of neural networks
 (NNs), moving on to convolutional NNs (CNNs) and recurrent NNs (RNNs),
-autoencoders, transformers, graph neural networks and other dimensionality reduction methods to finally
-discuss generative methods. These will include Boltzmann machines,
-variational autoencoders, generalized adversarial networks, diffusion methods and other.
-Reinforcement learning is another topic which can be covered if there is enough interest.
+autoencoders, transformers, graph neural networks and other
+dimensionality reduction methods to finally discuss generative
+methods. These will include Boltzmann machines, variational
+autoencoders, generalized adversarial networks, diffusion methods and
+other.  
+
 
 ![alt text](https://github.com/CompPhysics/AdvancedMachineLearning/blob/main/doc/images/image001.jpg?raw=true)
 
@@ -42,7 +44,7 @@ Reinforcement learning is another topic which can be covered if there is enough 
 
 
 ### Reinforcement Learning
-- Basics of reinforcement learning (more to be added)
+- Basics of reinforcement learning will be covered by an upcoming course planned for spring 2027
 
 ### Physical Sciences (often just called Physics informed) informed machine learning
 - Basic set up of PINNs with discussion of projects
@@ -196,8 +198,10 @@ https://github.com/CompPhysics/AdvancedMachineLearning/blob/main/doc/pub/week1/i
 - Thursday May 14 is a public holiday in Norway, no lecture
 
 ## May 18-22:  Discussion of projects
-- GANs, firs lecture, see slides from week 15 at https://github.com/CompPhysics/AdvancedMachineLearning/blob/main/doc/pub/week15/pdf/week15.pdf
-- Summary slides at https://github.com/CompPhysics/AdvancedMachineLearning/blob/main/doc/pub/week16/ipynb/week16.ipynb  
+- GANs, first lecture
+- Summary slides at https://github.com/CompPhysics/AdvancedMachineLearning/blob/main/doc/pub/week16/pdf and jupyter-notebook https://github.com/CompPhysics/AdvancedMachineLearning/blob/main/doc/pub/week16/ipynb
+- Video of lecture at https://youtu.be/DPtSJyBzPPE
+- Whiteboard notes at https://github.com/CompPhysics/AdvancedMachineLearning/blob/main/doc/HandwrittenNotes/2026/Notesweek16.pdf
 
 
 ## Recommended textbooks:
